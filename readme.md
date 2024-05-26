@@ -15,7 +15,9 @@ Ce projet de machine learning utilise une régression linéaire pour analyser l'
 
 1. Cloner le dépôt :
     ```bash
-
+    git clone https://github.com/AleckAstan/ML_M2
+    
+    cd ML_M2
     ```
 
 2. Créer et activer un environnement virtuel :
